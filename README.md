@@ -1,6 +1,6 @@
 # Calculator Project
 
-A simple calculator written in Python.
+A smart calculator with a command-line interface.
 
 ## Features
 - Addition

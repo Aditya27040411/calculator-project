@@ -5,7 +5,7 @@ def subtract(a, b):
     return a - b
 
 def main():
-    print("Simple Calculator")
+    print("*** Smart Calculator ***")
     print("10 + 5 =", add(10, 5))
     print("10 - 5 =", subtract(10, 5))
 
