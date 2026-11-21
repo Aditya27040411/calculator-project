@@ -1,6 +1,6 @@
 # Calculator Project
 
-A simple calculator written in Python.
+A basic calculator for quick arithmetic.
 
 ## Features
 - Addition
